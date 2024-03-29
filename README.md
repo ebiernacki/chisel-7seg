@@ -48,7 +48,7 @@ set_property PACKAGE_PIN W4 [get_ports {io_board_anode[3]}]
 
 **Getting the Repo:**
 ```bash
-$ git clone https://github.com/ebiernacki/chisel-KnightRider.git 
+$ git clone https://github.com/ebiernacki/chisel-chisel-7seg.git 
 ```
 
 ## External Setup Guides and Running the Projects
